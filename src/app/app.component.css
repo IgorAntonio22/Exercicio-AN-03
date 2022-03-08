@@ -1,0 +1,17 @@
+#h1 {
+    font-size: 100px;
+}
+
+#div, #valor {
+    display: flex;
+    justify-content: center;
+    
+}
+
+#valor {
+    font-size: 150px;
+}
+
+.btn {
+     height: 80px;
+}
